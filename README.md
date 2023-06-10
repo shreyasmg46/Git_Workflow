@@ -1,2 +1,2 @@
-# shell
-A Practice file of shell scripting
+ #git #shell #script
+A Practice file of Git-workflow follwed by sample shellscript
